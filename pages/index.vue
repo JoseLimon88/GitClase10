@@ -4,6 +4,9 @@
       <NuxtLink to="/contacto">Contacto</NuxtLink> | 
       <NuxtLink to="/about">Sobre Nosotros</NuxtLink>
       <!-- target="_blank" --> 
+        <footer>
+            Jose Luis Limón | UNARE
+        </footer>
     </div>
     <!-- <ComponentePadre></ComponentePadre> -->
   </template>
